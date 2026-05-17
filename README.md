@@ -2,7 +2,7 @@
 VL53L4CD_SATEL_Liquid
 
 # Overview
-- **Name**:VL53L4CD-V1.0
+- **Name**:VL53L4-V1.0
 - **MCU**: STM32H503CBT6
 - **IDE**: STM32CUBEMX+KEIL
 
